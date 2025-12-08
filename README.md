@@ -32,7 +32,7 @@ For now, this README is focused on your skills, interests, and aspirations.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yago Rueda Carrilero) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Yago Rueda Carrilero](https://www.linkedin.com/in/yago-rueda-carrilero-4b6043319/)) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruedayago@gmail.com) 
 
 # 💻 Tech Stack:
